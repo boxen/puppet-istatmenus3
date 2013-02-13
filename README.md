@@ -1,12 +1,15 @@
 # iStat Menus 3 Puppet Module for Boxen
 
-Requires the `boxen` puppet module.
-
 ## Usage
 
 ```puppet
 include istatmenus3 
 ```
+
+## Required Puppet Modules
+
+* boxen
+* stdlib
 
 ## Developing
 
