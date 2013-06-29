@@ -1,5 +1,7 @@
 # iStat Menus 3 Puppet Module for Boxen
 
+[![Build Status](https://travis-ci.org/boxen/puppet-istatmenus3.png?branch=master)](https://travis-ci.org/boxen/puppet-istatmenus3)
+
 ## Usage
 
 ```puppet
